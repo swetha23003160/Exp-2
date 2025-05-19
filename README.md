@@ -1,8 +1,19 @@
-# Exp - 2 LIBRARY MANAGEMENT SYSTEM
-
+EXP - 2 LIBRARY MANAGEMENT SYSTEM
+# REG NO: 212223040223
 # AIM:
-
+To draw a UML diagram for a library management system
 # SRS (Procedure):
+List of Programs:
+
+i) Usecase Diagram
+
+ii)Class Diagram
+
+iii)Activity Diagram
+
+iv)Communication Diagram
+v)Package Diagram
+vi)Sequence Diagram
 
 # DIAGRAMS:
 USE CASE DIAGRAM
